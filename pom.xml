@@ -10,7 +10,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>TestCore</module>
+        <module>PracticeOne</module>
+        <module>Test</module>
     </modules>
 
     <properties>
