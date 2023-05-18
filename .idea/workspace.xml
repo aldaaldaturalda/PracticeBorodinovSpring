@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Question43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw52.java" afterDir="false" />
+    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="practice">
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw55.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,28 +89,7 @@
       <recent name="C:\Users\User\IdeaProjects\PracticeBorodinovSpring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Qw52">
-    <configuration name="Qw48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qw48" />
-      <module name="PracticeOne" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Qw49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qw49" />
-      <module name="PracticeOne" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Qw50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qw50" />
-      <module name="PracticeOne" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Qw55">
     <configuration name="Qw51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Qw51" />
       <module name="PracticeOne" />
@@ -132,13 +104,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Qw53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw53" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qw54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw54" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qw55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw55" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Qw55" />
+        <item itemvalue="Application.Qw54" />
+        <item itemvalue="Application.Qw53" />
         <item itemvalue="Application.Qw52" />
         <item itemvalue="Application.Qw51" />
-        <item itemvalue="Application.Qw50" />
-        <item itemvalue="Application.Qw49" />
-        <item itemvalue="Application.Qw48" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +149,7 @@
       <workItem from="1684322563037" duration="2958000" />
       <workItem from="1684401677243" duration="10797000" />
       <workItem from="1684434190634" duration="1203000" />
-      <workItem from="1684435413008" duration="4522000" />
+      <workItem from="1684435413008" duration="9909000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684260205618</created>
@@ -200,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684265704379</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="practice">
+      <created>1684442716979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684442716979</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +226,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
