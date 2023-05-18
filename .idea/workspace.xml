@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Question42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Question43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +87,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.rainbow.brackets",
+    "settings.editor.selected.configurable": "project.propCompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,22 +96,37 @@
       <recent name="C:\Users\User\IdeaProjects\PracticeBorodinovSpring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question42">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Qw52">
+    <configuration name="Qw48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw48" />
+      <module name="PracticeOne" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question42" />
+    <configuration name="Qw49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw49" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qw50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw50" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qw51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw51" />
+      <module name="PracticeOne" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Qw52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Qw52" />
       <module name="PracticeOne" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,8 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question42" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Qw52" />
+        <item itemvalue="Application.Qw51" />
+        <item itemvalue="Application.Qw50" />
+        <item itemvalue="Application.Qw49" />
+        <item itemvalue="Application.Qw48" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +152,11 @@
       <updated>1684260055745</updated>
       <workItem from="1684260058789" duration="216000" />
       <workItem from="1684260277264" duration="1420000" />
-      <workItem from="1684261731588" duration="3835000" />
+      <workItem from="1684261731588" duration="4296000" />
+      <workItem from="1684322563037" duration="2958000" />
+      <workItem from="1684401677243" duration="10797000" />
+      <workItem from="1684434190634" duration="1203000" />
+      <workItem from="1684435413008" duration="4522000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684260205618</created>
@@ -162,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684262023361</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="second commit">
+      <created>1684265704379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684265704379</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +225,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
