@@ -9,6 +9,7 @@ import org.apache.maven.surefire.shared.utils.StringUtils;
 
 public class Qw51 {
     public static void main(String[] args) {
+        System.out.println(convertString("hEllo"));
         System.out.println(convertString("аСАЛАМАЛЕЙКУМ"));
         System.out.println(convertString("АСАЛАМАЛЕЙКУМ"));
         System.out.println(convertString(""));
