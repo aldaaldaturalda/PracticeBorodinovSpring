@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="practiceeStr">
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Calculator.java" afterDir="false" />
+    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="calc">
+      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/CalculatorByMisha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw62.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/Qw62.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <recent name="C:\Users\User\IdeaProjects\PracticeBorodinovSpring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.CalculatorByMisha">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="PracticeOne" />
@@ -96,15 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Question42" />
+    <configuration name="CalculatorByMisha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatorByMisha" />
       <module name="PracticeOne" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Qw60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qw60" />
+    <configuration name="Question42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question42" />
       <module name="PracticeOne" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatorByMisha" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Question42" />
         <item itemvalue="Application.Qw62" />
         <item itemvalue="Application.Qw61" />
-        <item itemvalue="Application.Qw60" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +154,8 @@
       <workItem from="1684658313252" duration="642000" />
       <workItem from="1684751971764" duration="2696000" />
       <workItem from="1684837149291" duration="1562000" />
-      <workItem from="1684950668382" duration="2757000" />
+      <workItem from="1684950668382" duration="2785000" />
+      <workItem from="1685178221339" duration="4376000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684260205618</created>
@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684537348667</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="calc">
+      <created>1684953495091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684953495091</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +256,8 @@
     <MESSAGE value="practice" />
     <MESSAGE value="practicee" />
     <MESSAGE value="practiceeStr" />
-    <option name="LAST_COMMIT_MESSAGE" value="practiceeStr" />
+    <MESSAGE value="calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="calc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
