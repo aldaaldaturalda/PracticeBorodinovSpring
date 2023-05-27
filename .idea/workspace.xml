@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="calc">
-      <change afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/CalculatorByMisha.java" afterDir="false" />
+    <list default="true" id="5323f053-41bd-4000-bf66-c003a20da23b" name="Changes" comment="calcByMy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticeOne/src/main/java/CalculatorByMisha.java" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeOne/src/main/java/CalculatorByMisha.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,7 @@
       <workItem from="1684751971764" duration="2696000" />
       <workItem from="1684837149291" duration="1562000" />
       <workItem from="1684950668382" duration="2785000" />
-      <workItem from="1685178221339" duration="4376000" />
+      <workItem from="1685178221339" duration="5578000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1684260205618</created>
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684953495091</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="calcByMy">
+      <created>1685182656811</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685182656811</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +264,8 @@
     <MESSAGE value="practicee" />
     <MESSAGE value="practiceeStr" />
     <MESSAGE value="calc" />
-    <option name="LAST_COMMIT_MESSAGE" value="calc" />
+    <MESSAGE value="calcByMy" />
+    <option name="LAST_COMMIT_MESSAGE" value="calcByMy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
